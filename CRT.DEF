@@ -1,0 +1,3 @@
+LIBRARY CRT
+EXPORTS
+	CRTfunc
